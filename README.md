@@ -15,3 +15,5 @@ I had some SMD SPDT slide switches laying around. I chose SMD, because it would 
 That's the actual design:
 
 <img width="480" height="496" alt="image" src="https://github.com/user-attachments/assets/0fd089bc-69c0-45a5-be11-b8731cd3a482" />
+
+The traces are as large as possible to reduce resistance. 
